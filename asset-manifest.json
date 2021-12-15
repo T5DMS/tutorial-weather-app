@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tutorial-weather-app/static/css/main.937193a7.css",
+    "main.js": "/tutorial-weather-app/static/js/main.eabb1c39.js",
+    "static/js/787.b839c234.chunk.js": "/tutorial-weather-app/static/js/787.b839c234.chunk.js",
+    "index.html": "/tutorial-weather-app/index.html",
+    "main.937193a7.css.map": "/tutorial-weather-app/static/css/main.937193a7.css.map",
+    "main.eabb1c39.js.map": "/tutorial-weather-app/static/js/main.eabb1c39.js.map",
+    "787.b839c234.chunk.js.map": "/tutorial-weather-app/static/js/787.b839c234.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.937193a7.css",
+    "static/js/main.eabb1c39.js"
+  ]
+}
